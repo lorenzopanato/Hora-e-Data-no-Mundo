@@ -1,0 +1,41 @@
+#horario-paris {
+    color: var(--cor-pricipal);
+    font-size: 200px;
+    font-family: 'Roboto Mono', monospace;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+@media (max-width: 1500px) {
+    #horario-paris {
+        font-size: 160px;
+    }
+}
+
+@media (max-width: 1200px) {
+    #horario-paris {
+        font-size: 140px;
+    }
+}
+
+@media (max-width: 970px) {
+    #horario-paris {
+        font-size: 110px;
+    }
+}
+
+@media (max-width: 670px) {
+    #horario-paris {
+        font-size: 80px;
+    }
+}
+
+@media (max-width: 450px) {
+    #horario-paris {
+        font-size: 65px;
+    }
+}
+
+
+

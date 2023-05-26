@@ -1,0 +1,36 @@
+#horario-poa {
+    color: var(--cor-pricipal);
+    font-size: 200px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+@media (max-width: 1500px) {
+    #horario-poa {
+        font-size: 160px;
+    }
+}
+
+@media (max-width: 1200px) {
+    #horario-poa {
+        font-size: 140px;
+    }
+}
+
+@media (max-width: 970px) {
+    #horario-poa {
+        font-size: 110px;
+    }
+}
+
+@media (max-width: 670px) {
+    #horario-poa {
+        font-size: 80px;
+    }
+}
+
+@media (max-width: 450px) {
+    #horario-poa {
+        font-size: 65px;
+    }
+}
+

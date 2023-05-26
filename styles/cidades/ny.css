@@ -1,0 +1,39 @@
+#horario-ny {
+    color: var(--cor-pricipal);
+    font-size: 200px;
+    font-family: 'Roboto Mono', monospace;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+@media (max-width: 1500px) {
+    #horario-ny {
+        font-size: 160px;
+    }
+}
+
+@media (max-width: 1200px) {
+    #horario-ny {
+        font-size: 140px;
+    }
+}
+
+@media (max-width: 970px) {
+    #horario-ny {
+        font-size: 110px;
+    }
+}
+
+@media (max-width: 670px) {
+    #horario-ny {
+        font-size: 80px;
+    }
+}
+
+@media (max-width: 450px) {
+    #horario-ny {
+        font-size: 65px;
+    }
+}
+
